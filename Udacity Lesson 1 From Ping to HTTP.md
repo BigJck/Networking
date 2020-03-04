@@ -42,5 +42,5 @@ ex:	 printf 'HEAD / HTTP/1.1\r\nHost: en.wikipedia.org\r\n\r\n' | nc en.wikipedi
 
 
 
-#### *net cat is only a simple way to show internet, there are different way for server to handle multiple connection at once like pool of threads, or quickly switch between handling requests
+#### *net cat is only a simple way to show internet, there are different ways for server to handle multiple connection at once like pool of threads, or quickly switch between handling requests
 
